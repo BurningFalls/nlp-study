@@ -12,6 +12,8 @@ code from [나동빈 github](https://github.com/ndb796/Deep-Learning-Paper-Revie
 
 ## BERT
 
+code from [SKplanet Tacademy google drive](https://drive.google.com/drive/folders/1QQphR2tmk5g6BheZKZ5q8WhX5yixV8xZ)
+
 [Original Paper Link](https://arxiv.org/abs/1810.04805)
 
 Explanation Video [<1. BERT>](https://www.youtube.com/watch?v=riGc8z3YIgQ&t=2s&ab_channel=SKplanetTacademy) 
