@@ -13,3 +13,7 @@ code from [나동빈 github](https://github.com/ndb796/Deep-Learning-Paper-Revie
 ## BERT
 
 [Original Paper Link](https://arxiv.org/abs/1810.04805)
+
+Explanation Video [<1. BERT>](https://www.youtube.com/watch?v=riGc8z3YIgQ&t=2s&ab_channel=SKplanetTacademy) 
+[<2. KorBERT>](https://www.youtube.com/watch?v=PzvKDpQgNzc&ab_channel=SKplanetTacademy) 
+[<3. BERT Training>](https://www.youtube.com/watch?v=S42vDzJExIA&t=368s&ab_channel=SKplanetTacademy) - SKplanet Tacademy
