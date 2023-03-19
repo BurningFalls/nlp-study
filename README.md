@@ -32,4 +32,4 @@ tf.contrib # error
 
 ## BERT (google research)
 
-code from [google research github](https://github.com/google-research/bert)
+code from [google research github](https://github.com/google-research/bert) (BERT-Base, Multilingual Cased)
