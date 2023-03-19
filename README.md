@@ -1,6 +1,6 @@
 # nlp-study
 
-## Attention Is All You Need - 나동빈
+## Attention Is All You Need (나동빈)
 
 code from [나동빈 github](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice/blob/master/code_practices/Attention_is_All_You_Need_Tutorial_(German_English).ipynb)
 
@@ -10,7 +10,7 @@ code from [나동빈 github](https://github.com/ndb796/Deep-Learning-Paper-Revie
 
 [Summary PDF](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice/blob/master/lecture_notes/Transformer.pdf) - 나동빈
 
-## BERT - SKplanet Tacademy
+## BERT (SKplanet Tacademy)
 
 code from [SKplanet Tacademy google drive](https://drive.google.com/drive/folders/1QQphR2tmk5g6BheZKZ5q8WhX5yixV8xZ)
 
