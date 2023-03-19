@@ -27,3 +27,5 @@ import tensorflow.compat.v1 as tf
 
 tf.contrib # error
 ```
+
+> Unable to render rich display (github colab display가 안됨)
