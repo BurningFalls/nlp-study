@@ -38,4 +38,5 @@ tf.contrib # error
 
 code from [김웅곤 github](https://github.com/kimwoonggon/publicservant_AI)
 
-Explanation Video [<naver_sentiment>](https://www.youtube.com/watch?v=OOfCI8R0jr8&ab_channel=%EA%B9%80%EC%9B%85%EA%B3%A4)
+Explanation Video [<1. naver_sentiment>](https://www.youtube.com/watch?v=OOfCI8R0jr8&ab_channel=%EA%B9%80%EC%9B%85%EA%B3%A4) 
+[<2. Q&A>](https://www.youtube.com/watch?v=LuApA264Wbs&ab_channel=%EA%B9%80%EC%9B%85%EA%B3%A4)
