@@ -33,3 +33,5 @@ tf.contrib # error
 ## BERT (google research)
 
 code from [google research github](https://github.com/google-research/bert) (BERT-Base, Multilingual Cased)
+
+[Original Paper Link](https://arxiv.org/abs/1810.04805)
