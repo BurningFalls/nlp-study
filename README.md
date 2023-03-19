@@ -20,4 +20,10 @@ Explanation Video [<1. BERT>](https://www.youtube.com/watch?v=riGc8z3YIgQ&t=2s&a
 [<2. KorBERT>](https://www.youtube.com/watch?v=PzvKDpQgNzc&ab_channel=SKplanetTacademy) 
 [<3. BERT Training>](https://www.youtube.com/watch?v=S42vDzJExIA&t=368s&ab_channel=SKplanetTacademy) - SKplanet Tacademy
 
-Tensorflow ver1으로 작성되어, ver2로 업그레이드 하는데 실패함 (contrib)
+> Tensorflow ver1으로 작성되어, ver2로 업그레이드 하는데 실패함 (contrib)
+
+```python
+import tensorflow.compat.v1 as tf
+
+tf.contrib # error
+```
