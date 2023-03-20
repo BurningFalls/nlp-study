@@ -26,6 +26,12 @@
 
 <br>
 
+## BERT (E-book)
+
+💻 code from [E-book](https://wikidocs.net/109251)
+
+<br>
+
 ## BERT (SKplanet Tacademy)
 
 💻 code from [SKplanet Tacademy google drive](https://drive.google.com/drive/folders/1QQphR2tmk5g6BheZKZ5q8WhX5yixV8xZ)
