@@ -60,3 +60,9 @@ tf.contrib # error
 
 📹 Explanation Video [<1. naver_sentiment>](https://www.youtube.com/watch?v=OOfCI8R0jr8&ab_channel=%EA%B9%80%EC%9B%85%EA%B3%A4) 
 [<2. Q&A>](https://www.youtube.com/watch?v=LuApA264Wbs&ab_channel=%EA%B9%80%EC%9B%85%EA%B3%A4)
+
+<br>
+
+## Transformer
+
+📝 [library lecture](https://wikidocs.net/book/8056)
