@@ -2,7 +2,7 @@
 
 ## Attention Is All You Need (나동빈)
 
-💻 code from [나동빈 github](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice/blob/master/code_practices/Attention_is_All_You_Need_Tutorial_(German_English).ipynb)
+💻 code from [github](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice/blob/master/code_practices/Attention_is_All_You_Need_Tutorial_(German_English).ipynb) - 나동빈
 
 📄 [Original Paper Link](https://arxiv.org/abs/1706.03762)
 
@@ -28,9 +28,9 @@
 
 ## BERT (E-book)
 
-💻 code from [E-book](https://wikidocs.net/109251)
+💻 code from [wikidocs](https://wikidocs.net/109251)
 
-[github](https://github.com/LaJeremi/Tensorflow-nlp-tutorial-Practice-/blob/0c862ebe1966546b0b5b95aed26a36af0bb560d6/18.%20Fine-tuning%20BERT%20(Cls%2C%20NER%2C%20NLI)/%2018_03_google_bert_nsmc_tpu.ipynb)
+💻 code from [github](https://github.com/LaJeremi/Tensorflow-nlp-tutorial-Practice-/blob/0c862ebe1966546b0b5b95aed26a36af0bb560d6/18.%20Fine-tuning%20BERT%20(Cls%2C%20NER%2C%20NLI)/%2018_03_google_bert_nsmc_tpu.ipynb)
 
 <br>
 
@@ -56,13 +56,13 @@ tf.contrib # error
 
 ## BERT (김웅곤)
 
-💻 code from [김웅곤 github](https://github.com/kimwoonggon/publicservant_AI)
+💻 code from [github](https://github.com/kimwoonggon/publicservant_AI) - 김웅곤
 
 📹 Explanation Video [<1. naver_sentiment>](https://www.youtube.com/watch?v=OOfCI8R0jr8&ab_channel=%EA%B9%80%EC%9B%85%EA%B3%A4) 
-[<2. Q&A>](https://www.youtube.com/watch?v=LuApA264Wbs&ab_channel=%EA%B9%80%EC%9B%85%EA%B3%A4)
+[<2. Q&A>](https://www.youtube.com/watch?v=LuApA264Wbs&ab_channel=%EA%B9%80%EC%9B%85%EA%B3%A4) - 김웅곤
 
 <br>
 
-## Transformer
+## Transformer (wikidocs)
 
-📝 [library lecture](https://wikidocs.net/book/8056)
+📝 library lecture from [wikidocs](https://wikidocs.net/book/8056)
