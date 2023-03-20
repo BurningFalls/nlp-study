@@ -20,7 +20,7 @@
 
 ## BERT (google research)
 
-💻 code from [google research github](https://github.com/google-research/bert) (BERT-Base, Multilingual Cased)
+💻 code from [github](https://github.com/google-research/bert) (BERT-Base, Multilingual Cased) - google research
 
 📄 [Original Paper Link](https://arxiv.org/abs/1810.04805)
 
@@ -30,13 +30,13 @@
 
 💻 code from [wikidocs](https://wikidocs.net/109251)
 
-💻 code from [github](https://github.com/LaJeremi/Tensorflow-nlp-tutorial-Practice-/blob/0c862ebe1966546b0b5b95aed26a36af0bb560d6/18.%20Fine-tuning%20BERT%20(Cls%2C%20NER%2C%20NLI)/%2018_03_google_bert_nsmc_tpu.ipynb)
+💻 code from [github](https://github.com/LaJeremi/Tensorflow-nlp-tutorial-Practice-/blob/0c862ebe1966546b0b5b95aed26a36af0bb560d6/18.%20Fine-tuning%20BERT%20(Cls%2C%20NER%2C%20NLI)/%2018_03_google_bert_nsmc_tpu.ipynb) - LaJeremi
 
 <br>
 
 ## BERT (SKplanet Tacademy)
 
-💻 code from [SKplanet Tacademy google drive](https://drive.google.com/drive/folders/1QQphR2tmk5g6BheZKZ5q8WhX5yixV8xZ)
+💻 code from [google drive](https://drive.google.com/drive/folders/1QQphR2tmk5g6BheZKZ5q8WhX5yixV8xZ) - SKplanet Tacademy
 
 📹 Explanation Video [<1. BERT>](https://www.youtube.com/watch?v=riGc8z3YIgQ&t=2s&ab_channel=SKplanetTacademy) 
 [<2. KorBERT>](https://www.youtube.com/watch?v=PzvKDpQgNzc&ab_channel=SKplanetTacademy) 
