@@ -30,6 +30,8 @@
 
 💻 code from [E-book](https://wikidocs.net/109251)
 
+[github](https://github.com/LaJeremi/Tensorflow-nlp-tutorial-Practice-/blob/0c862ebe1966546b0b5b95aed26a36af0bb560d6/18.%20Fine-tuning%20BERT%20(Cls%2C%20NER%2C%20NLI)/%2018_03_google_bert_nsmc_tpu.ipynb)
+
 <br>
 
 ## BERT (SKplanet Tacademy)
