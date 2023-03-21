@@ -42,7 +42,7 @@ tf.contrib # error
 
 ## BERT (graycode)
 
-* 💻 code from [github](https://github.com/graykode/nlp-tutorial) - graycode
+* 💻 code from [github]([https://github.com/graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial/blob/master/5-2.BERT/BERT.ipynb)) - graycode
 
 <br>
 
@@ -73,6 +73,6 @@ tf.contrib # error
 
 ## Transformer
 
-* 💻 code from [github](https://github.com/graykode/nlp-tutorial) - graycode
+* 💻 code from [github]([https://github.com/graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial/blob/master/5-1.Transformer/Transformer.ipynb)) - graycode
 
 * 📝 library lecture from [wikidocs](https://wikidocs.net/book/8056)
