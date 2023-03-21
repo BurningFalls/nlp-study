@@ -63,6 +63,14 @@ tf.contrib # error
 
 <br>
 
-## Transformer (wikidocs)
+## BERT (graycode)
+
+💻 code from [github](https://github.com/graykode/nlp-tutorial) - graycode
+
+<br>
+
+## Transformer
+
+💻 code from [github](https://github.com/graykode/nlp-tutorial) - graycode
 
 📝 library lecture from [wikidocs](https://wikidocs.net/book/8056)
