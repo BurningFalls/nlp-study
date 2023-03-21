@@ -12,22 +12,6 @@
 
 <br>
 
-## BPE: Byte Pair Encoding
-
-💻 code from [github](https://github.com/BurningFalls/nlp-study/blob/main/Byte%20Pair%20Encoding/BPE.ipynb) - 이성주
-
-📄 [Original Paper Link](https://arxiv.org/abs/1508.07909)
-
-<br>
-
-## BERT (google research)
-
-💻 code from [github](https://github.com/google-research/bert) (BERT-Base, Multilingual Cased) - google research
-
-📄 [Original Paper Link](https://arxiv.org/abs/1810.04805)
-
-<br>
-
 ## BERT (E-book)
 
 💻 code from [wikidocs](https://wikidocs.net/109251) - 딥러닝을 이용한 자연어 처리 입문
@@ -56,6 +40,12 @@ tf.contrib # error
 > 
 <br>
 
+## BERT (graycode)
+
+💻 code from [github](https://github.com/graykode/nlp-tutorial) - graycode
+
+<br>
+
 ## BERT (김웅곤)
 
 💻 code from [github](https://github.com/kimwoonggon/publicservant_AI) - 김웅곤
@@ -65,9 +55,19 @@ tf.contrib # error
 
 <br>
 
-## BERT (graycode)
+## BERT (google research)
 
-💻 code from [github](https://github.com/graykode/nlp-tutorial) - graycode
+💻 code from [github](https://github.com/google-research/bert) (BERT-Base, Multilingual Cased) - google research
+
+📄 [Original Paper Link](https://arxiv.org/abs/1810.04805)
+
+<br>
+
+## BPE: Byte Pair Encoding
+
+💻 code from [github](https://github.com/BurningFalls/nlp-study/blob/main/Byte%20Pair%20Encoding/BPE.ipynb) - 이성주
+
+📄 [Original Paper Link](https://arxiv.org/abs/1508.07909)
 
 <br>
 
