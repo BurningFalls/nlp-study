@@ -14,6 +14,8 @@
 
 ## BPE: Byte Pair Encoding
 
+💻 code from [github](https://github.com/BurningFalls/nlp-study/blob/main/Byte%20Pair%20Encoding/BPE.ipynb) - 이성주
+
 📄 [Original Paper Link](https://arxiv.org/abs/1508.07909)
 
 <br>
