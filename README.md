@@ -42,7 +42,7 @@ tf.contrib # error
 
 ## BERT (graycode)
 
-* 💻 code from [github]([https://github.com/graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial/blob/master/5-2.BERT/BERT.ipynb)) - graycode
+* 💻 code from [github](https://github.com/graykode/nlp-tutorial/blob/master/5-2.BERT/BERT.ipynb) - graycode
 
 <br>
 
