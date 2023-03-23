@@ -1,6 +1,6 @@
 # [ NLP study - BERT ]
 
-## Attention Is All You Need (나동빈)
+## Transformers/Attention_Is_All_You_Need
 
 * 💻 code from [github](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice/blob/master/code_practices/Attention_is_All_You_Need_Tutorial_(German_English).ipynb) - 나동빈
 
@@ -12,7 +12,7 @@
 
 <br>
 
-## BERT (E-book)
+## BERT/BERT(E_book)
 
 * 💻 code from [wikidocs](https://wikidocs.net/109251) - 딥러닝을 이용한 자연어 처리 입문
 
@@ -20,7 +20,7 @@
 
 <br>
 
-## BERT (SKplanet Tacademy)
+## BERT/BERT(SKplanet_Tacademy)
 
 * 💻 code from [google drive](https://drive.google.com/drive/folders/1QQphR2tmk5g6BheZKZ5q8WhX5yixV8xZ) - SKplanet Tacademy
 
@@ -40,13 +40,13 @@ tf.contrib # error
 > 
 <br>
 
-## BERT (graycode)
+## BERT/BERT(graycode)
 
 * 💻 code from [github](https://github.com/graykode/nlp-tutorial/blob/master/5-2.BERT/BERT.ipynb) - graycode
 
 <br>
 
-## BERT (김웅곤)
+## BERT/BERT(kimwoonggon)
 
 * 💻 code from [github](https://github.com/kimwoonggon/publicservant_AI) - 김웅곤
 
@@ -63,7 +63,7 @@ tf.contrib # error
 
 <br>
 
-## BPE: Byte Pair Encoding
+## Byte_Pair_Encoding
 
 * 💻 code from [github](https://github.com/BurningFalls/nlp-study/blob/main/Byte%20Pair%20Encoding/BPE.ipynb) - 이성주
 
