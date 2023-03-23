@@ -1,17 +1,5 @@
 # [ NLP study - BERT ]
 
-## Transformers/Attention_Is_All_You_Need
-
-* 💻 code from [github](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice/blob/master/code_practices/Attention_is_All_You_Need_Tutorial_(German_English).ipynb) - 나동빈
-
-* 📄 [Original Paper Link](https://arxiv.org/abs/1706.03762)
-
-* 📹 [Paper Review Video](https://www.youtube.com/watch?v=AA621UofTUA&ab_channel=%EB%8F%99%EB%B9%88%EB%82%98) - 나동빈
-
-* 📝 [Summary PDF](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice/blob/master/lecture_notes/Transformer.pdf) - 나동빈
-
-<br>
-
 ## BERT/BERT(E_book)
 
 * 💻 code from [wikidocs](https://wikidocs.net/109251) - 딥러닝을 이용한 자연어 처리 입문
@@ -48,10 +36,40 @@ tf.contrib # error
 
 ## BERT/BERT(kimwoonggon)
 
-* 💻 code from [github](https://github.com/kimwoonggon/publicservant_AI) - 김웅곤
+* 💻 code from [github](https://github.com/kimwoonggon/publicservant_AI) - kimwoonggon
 
 * 📹 Explanation Video [<1. naver_sentiment>](https://www.youtube.com/watch?v=OOfCI8R0jr8&ab_channel=%EA%B9%80%EC%9B%85%EA%B3%A4) 
-[<2. Q&A>](https://www.youtube.com/watch?v=LuApA264Wbs&ab_channel=%EA%B9%80%EC%9B%85%EA%B3%A4) - 김웅곤
+[<2. Q&A>](https://www.youtube.com/watch?v=LuApA264Wbs&ab_channel=%EA%B9%80%EC%9B%85%EA%B3%A4) - kimwoonggon
+
+<br>
+
+## BERT/BERT_Practice
+
+* 💻 code from [github](https://github.com/ukairia777/tensorflow-nlp-tutorial/tree/main/18.%20Fine-tuning%20BERT%20(Cls%2C%20NER%2C%20NLI)) - ukairia777
+
+<br>
+
+## Byte_Pair_Encoding
+
+* 💻 code from [github](https://github.com/BurningFalls/nlp-study/blob/main/Byte%20Pair%20Encoding/BPE.ipynb)
+
+* 📄 [Original Paper Link](https://arxiv.org/abs/1508.07909)
+
+<br>
+
+## Transformers/Attention_Is_All_You_Need
+
+* 💻 code from [github](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice/blob/master/code_practices/Attention_is_All_You_Need_Tutorial_(German_English).ipynb) - ndb796
+
+* 📄 [Original Paper Link](https://arxiv.org/abs/1706.03762)
+
+* 📹 [Paper Review Video](https://www.youtube.com/watch?v=AA621UofTUA&ab_channel=%EB%8F%99%EB%B9%88%EB%82%98) - 나동빈
+
+* 📝 [Summary PDF](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice/blob/master/lecture_notes/Transformer.pdf) - 나동빈
+
+<br>
+
+---
 
 <br>
 
@@ -60,14 +78,6 @@ tf.contrib # error
 * 💻 code from [github](https://github.com/google-research/bert) (BERT-Base, Multilingual Cased) - google research
 
 * 📄 [Original Paper Link](https://arxiv.org/abs/1810.04805)
-
-<br>
-
-## Byte_Pair_Encoding
-
-* 💻 code from [github](https://github.com/BurningFalls/nlp-study/blob/main/Byte%20Pair%20Encoding/BPE.ipynb) - 이성주
-
-* 📄 [Original Paper Link](https://arxiv.org/abs/1508.07909)
 
 <br>
 
