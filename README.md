@@ -86,3 +86,9 @@ tf.contrib # error
 * 💻 code from [github](https://github.com/graykode/nlp-tutorial/blob/master/5-1.Transformer/Transformer.ipynb) - graycode
 
 * 📝 library lecture from [wikidocs](https://wikidocs.net/book/8056)
+
+<br>
+
+## KoBERT
+
+* 💻 code from [github](https://github.com/SKTBrain/KoBERT) - SKTBrain
