@@ -103,6 +103,12 @@ tf.contrib # error
 
 <br>
 
+## ELECTRA
+
+* 📄 [Original Paper Link](https://arxiv.org/abs/2003.10555)
+
+<br>
+
 ## KOELECTRA
 
 * 💻 code from [github](https://github.com/monologg/KoELECTRA)
