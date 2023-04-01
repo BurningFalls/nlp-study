@@ -109,6 +109,8 @@ tf.contrib # error
 
 * 📹 [Paper Review Video](https://www.youtube.com/watch?v=ayVS904xQpQ&ab_channel=MinsukHeo%ED%97%88%EB%AF%BC%EC%84%9D) - 고려대 ICPS lab.
 
+* ✍️ [Explanation Blog](https://lsjsj92.tistory.com/629) - 이수진
+
 <br>
 
 ## KOELECTRA
