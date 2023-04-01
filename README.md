@@ -107,6 +107,8 @@ tf.contrib # error
 
 * 📄 [Original Paper Link](https://arxiv.org/abs/2003.10555)
 
+* 📹 [Paper Review Video](https://www.youtube.com/watch?v=ayVS904xQpQ&ab_channel=MinsukHeo%ED%97%88%EB%AF%BC%EC%84%9D) - 고려대 ICPS lab.
+
 <br>
 
 ## KOELECTRA
