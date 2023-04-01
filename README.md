@@ -100,3 +100,9 @@ tf.contrib # error
 * 💻 code from [SBERT.net](https://www.sbert.net/)
 
 * 📄 [Original Paper Link](https://arxiv.org/abs/1908.10084)
+
+<br>
+
+## KOELECTRA
+
+* 💻 code from [github](https://github.com/monologg/KoELECTRA)
