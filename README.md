@@ -115,4 +115,10 @@ tf.contrib # error
 
 ## KOELECTRA
 
-* 💻 code from [github](https://github.com/monologg/KoELECTRA)
+* 💻 code from [github](https://github.com/monologg/KoELECTRA) - monologg
+
+<br>
+
+## Chatbot Data
+
+* 📝 Data from [github](https://github.com/songys/Chatbot_data) - songys
