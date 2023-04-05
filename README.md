@@ -122,3 +122,9 @@ tf.contrib # error
 ## Chatbot Data
 
 * 📝 Data from [github](https://github.com/songys/Chatbot_data) - songys
+
+<br> 
+
+## KoGPT2
+
+* 💻 code from [github](https://github.com/SKT-AI/KoGPT2) - SKT-AI
